@@ -1,6 +1,6 @@
-## pre-scriptum: в Стилях Notepad++ настройте цвет STRINGEOL, чтобы отличать мои комментарии ##, в PyCharm для этого надо редактировать файл цветовой схемы
+  =====================  задачи  ====================
 
-## ==========  1  ========== ##
+1.
 
 class Tetrader:
     def __init__(self, line: float):
@@ -35,7 +35,7 @@ print(tet.volume())
 
 
 
-## ==========  2  ========== ##
+2.
 
 from datetime import datetime, timedelta
 
@@ -74,3 +74,11 @@ happy_moment.time_of_day(2)
 # happy_moment.time_of_day(122)
 
 ## хорошо!
+
+
+
+
+  =====================  баллы  =====================
+
+1. 5/5
+2. 7/7
